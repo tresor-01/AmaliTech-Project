@@ -1,0 +1,3 @@
+# .gitignore
+en.openfoodfacts.org.products.csv.gz
+*.gz
