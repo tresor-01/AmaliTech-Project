@@ -8,7 +8,7 @@ and <Xg sugar would face almost no direct competition in this segment.
 
 ## B. Project Links
 - [**Notebook**](./sugar_trap_analysis.ipynb) 
-- **Dashboard:** [Power BI public web link]
+- [**Dashboard** ](https://datastudio.google.com/reporting/22f91bc5-7c5e-424b-8f71-c2b4593dc3bb)
 - **Presentation:** [Google Slides link]
 
 ## C. Technical Explanation
@@ -59,11 +59,11 @@ AmaliTech-Project/
 
 ### 1. Repository & Code Checks
 
-- [ ] **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
-- [ ] **I have uploaded the `.ipynb` notebook file.**
-- [ ] **I have ALSO uploaded an HTML or PDF export** of the notebook.
-- [ ] **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
-- [ ] **My code uses Relative Paths.**
+- [✅ ] **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
+- [✅] **I have uploaded the `.ipynb` notebook file.**
+- [✅ ] **I have ALSO uploaded an HTML or PDF export** of the notebook.
+- [✅ ] **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
+- [✅ ] **My code uses Relative Paths.**
 
 ### 2. Deliverable Checks
 
