@@ -22,6 +22,33 @@ This shows which categories are dominated by D/E-rated (unhealthy) products givi
 the client a retail shelf strategy, not just an R&D target.
 
 
+## Project Structure
+
+```text
+AmaliTech-Project/
+│
+├── sugar_trap_analysis.ipynb          # Main analysis notebook (all 4 stories + bonus)
+├── sugar_trap_analysis.html           # HTML export of the notebook (with charts)
+│
+├── sugar_trap_master_dataset.csv      # Cleaned dataset exported for Power BI
+├── sugar_trap_category_summary.csv    # Category-level summary (KPI cards)
+│
+├── s1_distributions.png               # Story 1 — Sugar & protein distributions
+├── s2_category_counts.png             # Story 2 — Products per category
+├── s3_nutrient_matrix_static.png      # Story 3 — Sugar vs Protein scatter (static)
+├── s3_nutrient_matrix.html            # Story 3 — Sugar vs Protein scatter (interactive)
+├── s4_blue_ocean_by_category.png      # Story 4 — Blue Ocean gap by category
+├── bonus_protein_sources.png          # Bonus — Top protein sources in Blue Ocean products
+├── candidates_choice_nutriscore.png   # Candidate's Choice — Nutri-Score landscape
+│
+└── README.md                          # This file
+```
+
+> **Note:** The raw dataset (`en.openfoodfacts.org.products.csv.gz`, ~1.5 GB) is excluded via `.gitignore`.  
+> Run the notebook cell 2 to re-download it automatically from the Open Food Facts official server.
+
+---
+
 ## 🛑 CRITICAL: Pre-Submission Checklist
 
 **Before you submit your form, you MUST complete this checklist.**
