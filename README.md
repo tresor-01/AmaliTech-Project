@@ -8,8 +8,8 @@ and <Xg sugar would face almost no direct competition in this segment.
 
 ## B. Project Links
 - [**Notebook**](./sugar_trap_analysis.ipynb) 
-- [**Dashboard** ](https://datastudio.google.com/reporting/22f91bc5-7c5e-424b-8f71-c2b4593dc3bb)
-- **Presentation:** [Google Slides link]
+- [**Dashboard** ](https://datastudio.google.com/reporting/22f91bc5-7c5e-424b-8f71-c2b4593dc3bb) 
+- [**Presentation**](https://canva.link/axd2n1cueco05tw)
 
 ## C. Technical Explanation
 **Data Cleaning:** Dropped rows missing product_name, sugars_100g, or proteins_100g. 
@@ -67,14 +67,14 @@ AmaliTech-Project/
 
 ### 2. Deliverable Checks
 
-- [ ] **My Dashboard link is publicly accessible.** (No login required).
-- [ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
-- [ ] **I have updated this `README.md` file** with my Executive Summary and technical notes.
+- [✅ ] **My Dashboard link is publicly accessible.** (No login required).
+- [✅ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
+- [✅ ] **I have updated this `README.md` file** with my Executive Summary and technical notes.
 
 ### 3. Completeness
 
-- [ ] I have completed **User Stories 1-4**.
-- [ ] I have completed the **"Candidate's Choice"** challenge and explained it in the README.
+- [✅] I have completed **User Stories 1-4**.
+- [✅] I have completed the **"Candidate's Choice"** challenge and explained it in the README.
 
 **✅ Only when you have checked every box above, proceed to the submission form.**
 
